@@ -1,10 +1,6 @@
-# Note for All Users
+# Kaleidoscope Clang
 
-Weekly updates, check [latestlink.txt](https://raw.githubusercontent.com/PurrrsLitterbox/clang-releases/refs/heads/main/latestlink.txt) file for latest release.
-
-This clang releases is following LLVM Project's main branch, which may contains unstable commits. Use with cautions!
-
-Built every sunday on 07:00 WIB/00:00 UTC
+Stable release, check release page below or simply curl [latestlink.txt](https://raw.githubusercontent.com/PurrrsLitterbox/LLVM-stable/refs/heads/main/latestlink.txt) file from your script to download latest release.
 
 # Installation
 
@@ -18,13 +14,15 @@ clang --version
 
 # Features
 
-==> Minimal LLVM 21.0.0git targeting 'AArch64', 'ARM', and 'X86'
+==> Minimal LLVM 20.1.2 targeting 'AArch64', 'ARM', and 'X86'
+
+==> GLibC version 2.41
 
 ==> Stripped binaries
 
-==> Download size 236MB
+==> Download size 235MB
 
-==> Compressed tar archive with zstd v1.5.7
+==> Compressed tar archive with zstd
 
 ==> Build LLVM Polly & LLD
 
