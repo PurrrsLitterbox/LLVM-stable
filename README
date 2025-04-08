@@ -16,7 +16,9 @@ clang --version
 
 ==> Minimal LLVM LLVM_VERSION targeting 'AArch64', 'ARM', and 'X86'
 
-==> GLibC version GLIBCVER
+==> GLibC version GLIBC_VER
+
+==> Shipped with binutils version BINUTILS_VER
 
 ==> Stripped binaries
 
