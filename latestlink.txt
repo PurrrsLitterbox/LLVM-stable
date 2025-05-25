@@ -1,1 +1,1 @@
-https://github.com/PurrrsLitterbox/LLVM-stable/releases/download/20250408-1641-WIB/clang.tar.zst
+https://github.com/PurrrsLitterbox/LLVM-stable/releases/download/20250525-0557-WIB/clang.tar.zst
