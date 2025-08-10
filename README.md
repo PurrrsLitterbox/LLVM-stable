@@ -14,7 +14,7 @@ clang --version
 
 # Features
 
-==> Minimal LLVM 20.1.7 targeting 'AArch64', 'ARM', and 'X86'
+==> Minimal LLVM 20.1.8 targeting 'AArch64', 'ARM', and 'X86'
 
 ==> GLibC version 2.35
 
@@ -22,7 +22,7 @@ clang --version
 
 ==> Stripped binaries
 
-==> Download size 261MB
+==> Download size 242MB
 
 ==> Compressed tar archive with zstd
 
