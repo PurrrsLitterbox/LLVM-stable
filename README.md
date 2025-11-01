@@ -14,7 +14,7 @@ clang --version
 
 # Features
 
-==> Minimal LLVM 21.1.3 targeting 'AArch64', 'ARM', and 'X86'
+==> Minimal LLVM 21.1.4 targeting 'AArch64', 'ARM', and 'X86'
 
 ==> GLibC version 2.35
 
