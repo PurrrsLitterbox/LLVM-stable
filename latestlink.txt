@@ -1,1 +1,1 @@
-https://github.com/PurrrsLitterbox/LLVM-stable/releases/download/llvmorg-21.1.8/clang.tar.zst
+https://github.com/PurrrsLitterbox/LLVM-stable/releases/download/llvmorg-22.1.0-rc2/clang.tar.zst
